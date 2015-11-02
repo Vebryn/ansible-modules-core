@@ -30,6 +30,7 @@ options:
 author: "Jeroen Hoekx (@jhoekx)"
 notes:
   - Spaces in group names are converted to dashes '-'.
+  - https://github.com/ansible/ansible/issues/7199
 '''
 
 EXAMPLES = '''
